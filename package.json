@@ -1,0 +1,27 @@
+{
+  "name": "com.ugf.drag",
+  "version": "1.0.0",
+  "displayName": "UGC.Drag",
+  "description": "基于 Unity UGUI 的通用拖拽/放置（Drag & Drop）组件包。",
+  "unity": "2020.3",
+  "unityRelease": "0f1",
+  "keywords": [
+    "Unity",
+    "UGUI",
+    "Drag",
+    "Drop"
+  ],
+  "author": {
+    "name": "UGF",
+    "email": "contact@ugf.com",
+    "url": "https://www.ugf.com"
+  },
+  "dependencies": {},
+  "samples": [
+    {
+      "displayName": "Two Areas Drag-Drop Demo",
+      "description": "两个区域之间来回拖拽放置的最小示例",
+      "path": "Samples~/TwoAreasDemo"
+    }
+  ]
+}

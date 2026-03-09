@@ -1,0 +1,16 @@
+{
+    "name": "UGC.Drag.Samples",
+    "rootNamespace": "",
+    "references": [
+        "GUID:13a5b358e9e37a141afbaf986e7bf8a7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
