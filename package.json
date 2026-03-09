@@ -1,5 +1,5 @@
 {
-  "name": "com.ugf.drag",
+  "name": "com.ugc.drag",
   "version": "1.0.0",
   "displayName": "UGC.Drag",
   "description": "基于 Unity UGUI 的通用拖拽/放置（Drag & Drop）组件包。",
