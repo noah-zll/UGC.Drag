@@ -39,6 +39,11 @@ namespace UGC.Drag.Core
             var cloneRect = clone.transform as RectTransform;
             if (cloneRect != null)
             {
+                cloneRect.anchorMin = new Vector2(0.5f, 0.5f);
+                cloneRect.anchorMax = new Vector2(0.5f, 0.5f);
+                cloneRect.pivot = new Vector2(0.5f, 0.5f);
+                cloneRect.sizeDelta = sourceRect.rect.size;
+                cloneRect.localScale = Vector3.one;
                 cloneRect.SetAsLastSibling();
             }
 
